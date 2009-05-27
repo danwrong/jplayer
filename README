@@ -1,0 +1,6 @@
+jPlayer for jQuery
+------------------
+
+This is a fork of the jPlayer project by Happy Worm where I'm going to attempt to add ID3 tag reading support.  For details of the original project visit its site:
+
+http://www.happyworm.com/jquery/jplayer/
